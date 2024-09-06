@@ -1,0 +1,42 @@
+body{
+    font-family: "Poppins", sans-serif;
+}
+.navbar{
+    background-color: #1e2133;
+}
+
+#cabecalho .navbar-brand, .navbar-brand:hover{
+    color: white;
+}
+
+#cabecalho .nav .nav-link.active{
+    background-color: white;
+    color: #1e2133;
+}
+
+#cabecalho .nav .nav-link, 
+.nav-habilidades .nav-link.active:hover{
+    color: white;
+}
+
+.navbar-toggler{
+    background-color: white;
+}
+
+.nav-habilidades .nav-link.active,
+#fale-conosco button{
+    background-color: #1e2133;
+    color: white;
+}
+
+.nav-habilidades .nav-link:hover{
+    color: #1e2133;
+}
+
+.social-links li{
+    list-style: none;
+}
+
+.text-colored{
+    color: #1e2133;;
+}
