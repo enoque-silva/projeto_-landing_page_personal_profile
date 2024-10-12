@@ -46,3 +46,17 @@ body{
     color: #1e2133;;
 }
 
+.imagecontainer:hover img {
+    transform: scale(1.04); /* Ampliação da imagem em 20% */
+  }
+
+.imagecontainer img {
+    transition: transform 0.3s ease; /* Suaviza a transição */
+    width: 100%; /* Tamanho inicial da imagem */
+  }
+
+.linkStyle{
+    text-decoration: none; /* Remove o sublinhado */
+    color: inherit; /* Mantém a cor do texto ao redor */
+}
+
