@@ -60,3 +60,6 @@ body{
     color: inherit; /* Mantém a cor do texto ao redor */
 }
 
+.iconLinksSociais:hover i {
+    color: #424649;
+  }
